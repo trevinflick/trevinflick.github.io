@@ -1,5 +1,5 @@
 ---
-title: "DevOps for Data Science Site"
+title: "devops4ds_site"
 ---
 
 This is a Quarto website.
